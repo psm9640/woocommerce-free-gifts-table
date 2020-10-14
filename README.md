@@ -1,5 +1,4 @@
-# woocommerce-free-gifts-table
-Move the gifts display in Free Gifts for WooCommerce to above the WordPress cart table.
+# Move Free Gifts for WooCommerce gift table above the WordPress cart table
 
 Free Gifts for WooCommerce is a plugin that allows you to offer various types of gifts/free products within WooCommerce.
 https://woocommerce.com/products/free-gifts-for-woocommerce/
