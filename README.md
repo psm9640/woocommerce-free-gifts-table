@@ -8,6 +8,6 @@ On the cart page, if someone has qualified for a free gift, the table appears ei
 This code is based upon Chris Houghton's waitForEl function:
 https://gist.github.com/chrisjhoughton/7890303
 
-# UPDATE 10.27.20
+## UPDATE 10.27.20
 
 Plugin authors are adding this feature to future release of plugin, so this modification is no longer necessary.
