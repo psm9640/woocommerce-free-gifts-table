@@ -1,4 +1,4 @@
-# Move Free Gifts for WooCommerce gift table above the WooCommerce cart table
+# Move Free Gifts for WooCommerce gift table above the WooCommerce cart table DEPRECATED
 
 Free Gifts for WooCommerce is a plugin that allows you to offer various types of gifts/free products within WooCommerce.
 https://woocommerce.com/products/free-gifts-for-woocommerce/
@@ -7,3 +7,7 @@ On the cart page, if someone has qualified for a free gift, the table appears ei
 
 This code is based upon Chris Houghton's waitForEl function:
 https://gist.github.com/chrisjhoughton/7890303
+
+# UPDATE 10.27.20
+
+Plugin authors are adding this feature to future release of plugin, so this modification is no longer necessary.
